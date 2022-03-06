@@ -111,8 +111,10 @@ def get_email(username):
     cursor = connection.cursor()
     cursor.execute('SELECT email FROM '+user_table+' WHERE username=?', [username])
     result = cursor.fetchone()
+
     if result is not None:
-        result = cursor.fetchone()[0]
+        result = result[0]
+
     connection.close()
 
     return result
