@@ -1,5 +1,5 @@
 # myDiary
-GUI application made with Tkinter that implements a management of online diaries
+GUI application made with Tkinter that implements a management of digital diaries
 ## Dependencies
 Python3 and Pillow Library
 ## Features
