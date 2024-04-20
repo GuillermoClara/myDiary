@@ -7,8 +7,6 @@ Python3 and Pillow Library
 ![](screenshots/login.PNG)
 ### 2. Database storage
 ![](screenshots/menu.PNG)
-### 3. Email recovery system
-![](screenshots/recovery.PNG)
 ### 4. Diaries editor
 ![](screenshots/diary_editor.PNG)
 
